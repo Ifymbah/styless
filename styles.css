@@ -1,0 +1,68 @@
+/* STYLES */
+
+
+h1{
+font-size: 650%;
+text-align: right;
+color: rgb(52, 60, 60);
+margin-left: 45%;
+margin-right: 0%;
+margin-bottom: 55%;
+margin-top: 0%;
+}
+
+h2, h3{
+    color:white;
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    text-align: left;
+}
+
+
+em{
+    color:white;
+    text-align: left;
+    font-size: large;
+    margin-bottom: 75%;
+    margin-top: 60%;
+    
+}
+a{
+color:white;
+font-size: large;
+}
+
+
+
+
+
+li{
+    color: rgb(52, 60, 60);
+    margin-right: 20%;
+    margin-left: 20%;
+    text-align: left;
+
+}
+
+p{
+    color: rgb(52, 60, 60);
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    text-align: left;
+    margin-bottom: 2%;
+}
+
+
+
+
+
+
+body {
+    background: rgb( 68, 148, 140);
+
+    
+
+
+}
